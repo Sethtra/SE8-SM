@@ -10,9 +10,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "bootstrap": "^5.3.5",
+    "chart.js": "^4.4.9",
+    "perfect-scrollbar": "^1.5.6",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "react-router-dom": "^7.5.3"
+    "react-router-dom": "^7.5.3",
+    "smooth-scrollbar": "^8.8.4"
   },
   "devDependencies": {
     "@eslint/js": "^9.22.0",
